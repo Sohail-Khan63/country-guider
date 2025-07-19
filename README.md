@@ -7,7 +7,7 @@ Country Guider App is a simple, responsive web application that allows users to 
     <li>View capital, population, region, and more</li>
     <li>Displays country flags</li>
     <li>Shows currencies and languages</li>
-    <li>Fully responsive design for all devices<li>
+    <li>Fully responsive design for all devices</li>
 </ul>
 <h2>Technologies Used</h2>
 <ul>
