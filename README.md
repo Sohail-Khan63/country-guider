@@ -10,7 +10,6 @@ Country Guider App is a simple, responsive web application that allows users to 
     <li>Fully responsive design for all devices<li>
 </ul>
 <h2>Technologies Used</h2>
-<br>
 <ul>
     <li>HTML5</li>
     <li>CSS3</li>
@@ -18,4 +17,4 @@ Country Guider App is a simple, responsive web application that allows users to 
     <li>REST Countries API</li>
 </ul>
 <h2>Live Demo</h2>
-Click to Preview App : <a href="https://sohail-khan63.github.io/country-guider/"></a>
+Click to Preview App : <a href="https://sohail-khan63.github.io/country-guider/">https://sohail-khan63.github.io/country-guider/</a>
